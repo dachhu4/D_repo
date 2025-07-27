@@ -1,2 +1,0 @@
-I have added a new file called Java.
-I have added 2nd line in this Java file.
